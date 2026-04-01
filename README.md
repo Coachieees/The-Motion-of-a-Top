@@ -1,6 +1,7 @@
 # **The-Motion-of-a-Top**
 **Analytical Dynamic (254721) Final Project**\
 **Made by:** Wongsakorn Wongchompu\
+**Student ID:** 680631027\
 **Reference:** Donald T. Greenwood - PRINCIPLES OF DYNAMICS
 
 ## **YouTube Link (Code Explaination)**
