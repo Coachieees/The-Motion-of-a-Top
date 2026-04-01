@@ -1,5 +1,5 @@
 # **The-Motion-of-a-Top**
-**Analytical Dynamic Project (254721)**\
+**Analytical Dynamic (254721) Final Project **\
 **Made by:** Wongsakorn Wongchompu\
 **Reference:** Donald T. Greenwood - PRINCIPLES OF DYNAMICS
 
