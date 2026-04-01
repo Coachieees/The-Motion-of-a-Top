@@ -3,6 +3,9 @@
 **Made by:** Wongsakorn Wongchompu\
 **Reference:** Donald T. Greenwood - PRINCIPLES OF DYNAMICS
 
+## ** YouTube Link (Code Explaination)**
+https://www.youtube.com/watch?v=jxoLdBb6KQs&t=244s
+
 ## **The Motion of a Top (Chapter 8 Section 8-5)**
 **Generalize Coordinates**:   $q_i=\{\psi,\theta,\phi \}$\
 <img src="Figure/Fig1.png" width="800"/>     <img src="Figure/Fig8-13.png" width="540"/>
